@@ -2,11 +2,11 @@
 
 ###
 
-<<<<<<< HEAD
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/oberoir080/count.svg?"  />
 </div>
-=======
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=oberoir080&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
